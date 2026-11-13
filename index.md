@@ -6,12 +6,12 @@ title: 3D Bicycle Frame PDE-Constrained Optimization
 # Optimal Design of a 3D Bicycle Frame via PDE-Constrained Optimization
 
 ## 1. Executive Summary & Introduction
-This project presents a rigorous structural optimization framework for a 3D diamond bicycle frame under static rider loads[cite: 7]. By formulating the structural response as a PDE-constrained optimization problem[cite: 4], we minimize total structural mass while satisfying strict yield stress, fatigue, deflection, frequency, buckling, and geometric constraints.
+This project presents a rigorous structural optimization framework for a 3D diamond bicycle frame under static rider loads. By formulating the structural response as a PDE-constrained optimization problem, we minimize total structural mass while satisfying strict yield stress, fatigue, deflection, frequency, buckling, and geometric constraints.
 
 ---
 
 ## 2. Interactive 3D Design Viewer
-Below is the interactive WebGL comparison tool built with Three.js, allowing you to inspect the initial parametric layout versus the optimized structure, view deformations, and analyze stress utilization heatmaps[cite: 3].
+Below is the interactive WebGL comparison tool built with Three.js, allowing you to inspect the initial parametric layout versus the optimized structure, view deformations, and analyze stress utilization heatmaps.
 
 <div id="canvas-container" style="width: 100%; height: 500px; background: #121212; position: relative;">
     <!-- Include Three.js Viewer HTML/JS here or embed via iframe -->
