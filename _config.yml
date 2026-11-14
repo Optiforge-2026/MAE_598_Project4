@@ -1,0 +1,5 @@
+title: "3D Bicycle Frame Optimization"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
