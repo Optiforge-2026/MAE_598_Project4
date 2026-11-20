@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 title: 3D Bicycle Frame PDE-Constrained Optimization | Kouassi Ngoran Abel
 ---
 
